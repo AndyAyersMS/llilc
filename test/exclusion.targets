@@ -23,28 +23,25 @@
              <Issue>13</Issue>
         </ExcludeList>
         <ExcludeList Include="$(XunitTestBinBase)\JIT\jit64\gc\misc\eh1.cmd" >
-             <Issue>420</Issue>
+             <Issue>13</Issue>
         </ExcludeList>
         <ExcludeList Include="$(XunitTestBinBase)\JIT\jit64\gc\misc\funclet.cmd" >
-             <Issue>420</Issue>
+             <Issue>CoreClr/1440</Issue>
         </ExcludeList>
         <ExcludeList Include="$(XunitTestBinBase)\JIT\jit64\gc\misc\fgtest1.cmd" >
-             <Issue>420</Issue>
+             <Issue>13</Issue>
         </ExcludeList>
         <ExcludeList Include="$(XunitTestBinBase)\JIT\jit64\gc\misc\fgtest2.cmd" >
              <Issue>13</Issue>
         </ExcludeList>
         <ExcludeList Include="$(XunitTestBinBase)\JIT\jit64\gc\misc\structfpseh5_1.cmd" >
-             <Issue>420</Issue>
+             <Issue>13</Issue>
         </ExcludeList>
         <ExcludeList Include="$(XunitTestBinBase)\JIT\jit64\gc\misc\structfpseh6_1.cmd" >
-             <Issue>420</Issue>
-        </ExcludeList>
-        <ExcludeList Include="$(XunitTestBinBase)\JIT\jit64\gc\regress\vswhidbey\339415.cmd" >
-             <Issue>420</Issue>
+             <Issue>13</Issue>
         </ExcludeList>
         <ExcludeList Include="$(XunitTestBinBase)\JIT\jit64\gc\regress\vswhidbey\143837.cmd" >
-             <Issue>420</Issue>
+             <Issue>13</Issue>
         </ExcludeList>
         <ExcludeList Include="$(XunitTestBinBase)\JIT\jit64\opt\cse\fieldExprUnchecked1.cmd" >
              <Issue>13</Issue>
